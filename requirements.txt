@@ -1,2 +1,5 @@
 pandas==1.2.3
 python-dotenv==0.15.0
+psycopg2==2.8.6
+sqlalchemy==1.4.1
+sqlalchemy_schemadisplay==1.3
