@@ -78,7 +78,7 @@ the following tables:
 The following Entity Relationship Diagram explains part of the implementation details of
 the schema explained before:
 
-![ER Diagram](https://github.com/jsgilberto/sparkify/tree/main/sparkifydb_erd.png)
+![ER Diagram](https://github.com/jsgilberto/sparkify/blob/main/sparkifydb_erd.png)
 
 ## ETL Pipeline
 
