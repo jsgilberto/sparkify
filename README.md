@@ -73,6 +73,13 @@ the following tables:
 4. artists - artists in music database
 5. time - timestamps of records in songplays broken down into specific units
 
+### ER Diagram
+
+The following Entity Relationship Diagram explains part of the implementation details of
+the schema explained before:
+
+![ER Diagram](https://github.com/jsgilberto/sparkify/tree/main/sparkifydb_erd.png)
+
 ## ETL Pipeline
 
 Inside `src/etl.py` is the ETL pipeline used in this project.
